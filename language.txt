@@ -1,0 +1,4 @@
+Hello#@#Hola#@#Bonjour
+Bye#@#Adiós#@#Au revoir
+Hello World#@#Hola mundo#@#Bonjour le monde
+Thank You#@#Gracias#@#Merci
